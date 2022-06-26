@@ -1,0 +1,23 @@
+#Brianna Marsh
+import re
+import string
+
+
+def numOfItems(): #Displayed the number of times an item appeared
+    numOfItems = numOfItems + 1
+    print("Food: ", numOfItems)
+
+def fruitVeg(v): #Determine the frequency of an item
+    print("Frequency of fruit or vegetable is: " + v) #Return the item and the frequency 
+    return 100;
+
+def fruitVeg2(v): #numeric frequency
+    return v * v
+
+csFile = open('cs210_project_three_input_file.txt') #Opening the CS210_File_Project_Three_Input_File.txt file
+contents =  csFile.read() #Reading through the file
+
+f = open('frequency.dat', 'a+') #Appending the file to create it 
+    f.write(fruitVeg)
+    f.write(" ")
+    f.write(str(v)) #Write a number
