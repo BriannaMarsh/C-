@@ -1,1 +1,5 @@
-# C-
+# In Project 3, I used used the integration of Python into C++ to work together to build a grocery store tracking system for their fruits and vegetables. With this system in place, you will be able to track how many fruits and/or vegetables are being bought from the store as well as the type of fruit or vegetable. I believe that I did really well setting up the python file within the C++ program using Visual Studios. The foundation of this setup is very important to do correctly for the program to compile. I could have enhanced my code by having a better representation of the histogram. This definitely would have made the code look better for the client to view. The most challenging part of the code was, honestly, getting started. I was a intimidated in the beginning because of the use of integration, but when I looked at the directions and went step by step, I was able to execute the code with ease. Resources that I am adding to my support network are definitely old notes from Zybooks; Zybooks is very helpful. The skill of integrating Python into a C++ program is something that I will take with me into other projects and course work. I made this program maintainable, readable, and adaptable by making sure that I left inline comments as needed and making sure that the code was neat.
+
+Thank You.
+
+-BriannaMarsh.
